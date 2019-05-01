@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#ffac40</color>
+    <!--ColorGroup 2-->
+    <color name="colorGroup2_01">#9aca40</color>
+    <color name="colorGroup2_02">#6fa92d</color>
+    <color name="colorGroup2_03">#e95d54</color>
+    <color name="colorGroup2_04">#b14740</color>
+    <color name="colorGroup2_05">#ffeb3b</color>
+    <color name="colorGroup2_06">#ffad36</color>
+    <color name="colorGroup2_07">#f481f6</color>
+    <color name="colorGroup2_08">#62f1d9</color>
+    <color name="colorGroup2_09">#e5f99d</color>
+    <color name="colorGroup2_10">#fc6608</color>
+
+    <color name="GRAY_0">#959595</color>
+    <color name="GRAY_1">#bdbdbd</color>
+    <color name="GRAY_2">#eaeaea</color>
+    <color name="GRAY_3">#eeeeee</color>
+    <color name="GRAY_4">#f7f7f7</color>
+    <color name="GRAY_5">#78000000</color>
+
+</resources>
